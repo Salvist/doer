@@ -17,5 +17,5 @@ flutter run
 ```
 
 ## Preview
-![doer preview](https://github.com/Salvist/doer/preview/doer_preview.gif)
+![doer preview](https://raw.githubusercontent.com/Salvist/doer/master/preview/doer_preview.gif)
 
