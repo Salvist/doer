@@ -1,7 +1,7 @@
 import 'package:doer/domain/models/task.dart';
 import 'package:doer/presentation/board_scope.dart';
 import 'package:doer/presentation/task/widgets/task_dialog.dart';
-import 'package:doer/presentation/task_card.dart';
+import 'package:doer/presentation/task/widgets/task_card.dart';
 import 'package:doer/presentation/workflow/workflow_controller.dart';
 import 'package:flutter/material.dart';
 

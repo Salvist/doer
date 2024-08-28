@@ -1,7 +1,7 @@
 import 'package:doer/domain/models/project.dart';
 import 'package:doer/inherited_repository.dart';
 import 'package:doer/presentation/project/project_controller.dart';
-import 'package:doer/presentation/workflow_board.dart';
+import 'package:doer/presentation/workflow/workflow_board.dart';
 import 'package:flutter/material.dart';
 
 class TaskBoard extends StatefulWidget {
